@@ -1,0 +1,21 @@
+Card Serial: TC-02
+Card Title: Login Module
+Assigned To: [FAHMIDA ISLAM BAYAN]
+
+Description:
+Design and implement the login and authentication functions of the Event Management System.
+
+Main Tasks:
+1. Design the login interface
+2. Accept the username and password
+3. Validate required input fields
+4. Authenticate registered users
+5. Display an error message for invalid credentials
+6. Redirect authenticated users to the appropriate dashboard
+7. Provide a logout function
+
+Feature Branch:
+feature/login-module
+
+Status:
+Completed

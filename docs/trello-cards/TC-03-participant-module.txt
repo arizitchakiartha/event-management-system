@@ -1,0 +1,21 @@
+Card Serial: TC-03
+Card Title: Participant Module
+Assigned To: [Member Full Name]
+
+Description:
+Design and implement the participant functions of the Event Management System.
+
+Main Tasks:
+1. Create and manage a participant profile
+2. Browse available events
+3. View event details
+4. Register for an event
+5. Book event tickets
+6. View booking and registration information
+7. Cancel a registration when permitted
+
+Feature Branch:
+feature/participant-module
+
+Status:
+Completed

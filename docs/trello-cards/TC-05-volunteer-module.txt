@@ -1,0 +1,24 @@
+Card Serial: TC-05
+Card Title: Volunteer Module
+Assigned To: bayanafahmida
+GitHub Username: bayanafahmida
+Email: bayanafahmida019@gmail.com
+
+Description:
+Design andDouble-click the Volunteer folder and implement the volunteer functions of the Event Management System.
+
+Main Tasks:
+1. Create and manage a volunteer profile
+2. View available volunteering opportunities
+3. Apply to volunteer for an event
+4. View assigned events and responsibilities
+5. Update volunteer availability
+6. View event schedules and instructions
+7. Track volunteer application status
+8. Cancel an application when permitted
+
+Feature Branch:
+feature/tc05-volunteer-final
+
+Status:
+Completed

@@ -1,0 +1,20 @@
+Card Serial: TC-01
+Card Title: Admin Module
+Assigned To: Arizit Chaki Artha
+GitHub Username: arizitchakiartha
+
+Description:
+Design and implement the administrative functions of the Event Management System.
+
+Main Tasks:
+1. Admin authentication
+2. Administrator profile management
+3. Organizer profile management
+4. Venue-manager profile management
+5. User information management
+
+Feature Branch:
+feature/tc01-admin-final
+
+Status:
+Completed

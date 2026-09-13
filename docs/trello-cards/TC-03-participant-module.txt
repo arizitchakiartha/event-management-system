@@ -1,0 +1,23 @@
+Card Serial: TC-03
+Card Title: Participant Module
+Assigned To: Arizit Chaki Artha
+GitHub Username: arizitchakiartha
+
+Description:
+Design and implement the participant-related functions of the Event Management System.
+
+Main Tasks:
+1. Create and manage a participant profile
+2. Browse available events
+3. View event details
+4. Register for an event
+5. Book event tickets
+6. View registration and booking history
+7. Cancel a registration when permitted
+8. Receive event notifications
+
+Feature Branch:
+feature/tc03-participant-final
+
+Status:
+Completed

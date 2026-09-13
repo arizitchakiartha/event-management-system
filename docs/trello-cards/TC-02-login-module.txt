@@ -1,0 +1,23 @@
+Card Serial: TC-02
+Card Title: Login Module
+Assigned To: Arizit Chaki Artha
+GitHub Username: arizitchakiartha
+
+Description:
+Design and implement the login and authentication interfaces of the Event Management System.
+
+Main Tasks:
+1. Design the main login interface
+2. Accept usernames and passwords
+3. Validate required input fields
+4. Authenticate registered users
+5. Display messages for invalid credentials
+6. Support different system-user roles
+7. Redirect authenticated users to the correct dashboard
+8. Provide logout functionality
+
+Feature Branch:
+feature/tc02-login-final
+
+Status:
+Completed

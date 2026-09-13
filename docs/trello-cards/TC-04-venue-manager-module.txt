@@ -1,0 +1,24 @@
+Card Serial: TC-04
+Card Title: Venue Manager Module
+Assigned To: bayanfahmida
+GitHub Username: bayanfahmida
+Email: bayanfahmida019@gmail.com
+
+Description:
+Design and implement the venue-management functions of the Event Management System.
+
+Main Tasks:
+1. Create and manage venue information
+2. View assigned venues
+3. Add new venue details
+4. Update venue capacity and facilities
+5. Check venue availability
+6. Review venue-booking requests
+7. Approve or reject reservations
+8. View and manage venue schedules
+
+Feature Branch:
+feature/tc04-venue-manager-final
+
+Status:
+Completed
